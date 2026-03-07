@@ -80,7 +80,8 @@
 ## 🐍 Snake animation из коммитов
 
 <p align="center">
-  <img src="https://github.com/lambda1488/lambda1488/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake animation"/>
+  <!-- Для работы нужно сгенерировать SVG через https://github.com/Platane/snk -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake.svg" alt="GitHub Snake animation"/>
 </p>
 
 ---

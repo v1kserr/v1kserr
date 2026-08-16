@@ -19,9 +19,8 @@ OSINT & DevOps Engineer · [V1 Team](https://v1-team.github.io)
   <h3>⚡ Dev Memes For You ⚡</h3>
   <p>
     <!-- ЗАМЕНИЛ ССЫЛКИ НА ТЕ, ЧТО ТОЧНО РАБОТАЮТ -->
-    <img src="https://i.imgur.com/bvNZR8E.gif" width="200px" />
-    <img src="https://i.imgur.com/JXh0i6k.gif" width="200px" />
-    <img src="https://i.imgur.com/H8Rl4eZ.gif" width="200px" />
+    <img src="images.jpg" width="200px" />
+    <img src="8-hYMDtPEIE.jpg" width="200px" />
   </p>
 </div>
 <!-- ================================ -->

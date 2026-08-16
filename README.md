@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/v1kserr.svg" alt="v1kserr" />
+<img src="ChatGPT Image 16 авг. 2026 г., 16_02_56.png" alt="v1kserr" />
 <div align="center">
 
 </div>

@@ -12,6 +12,21 @@ OSINT & DevOps Engineer · [V1 Team](https://v1-team.github.io)
 
 </div>
 
+<!-- ================================ -->
+<!-- БЛОК С АНИМИРОВАННЫМИ МЕМАМИ     -->
+<!-- ================================ -->
+<div align="center">
+  <h3>⚡ Dev Memes For You ⚡</h3>
+  <p>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRzNXh1MDJpMDJ0b3kweWZvbjBwbjQyajh1bDJ5aG80eHpueW83bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwPsXF2C2M8/giphy.gif" width="200px" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ6cWZkY3A2c2Vmd2I1Y3I0eTg2eG9uZ2h4dWZ1cGZ4b2RkY3N5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTsk0U7gXK6wU7O/giphy.gif" width="200px" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZkNjBpMnd1N3A3c2Z2eGZtMjZ4M2F2eWt3b2l4MnV4eXowbzZtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCNd3w5P4T5sU/giphy.gif" width="200px" />
+  </p>
+</div>
+<!-- ================================ -->
+<!-- КОНЕЦ БЛОКА МЕМОВ                -->
+<!-- ================================ -->
+
 ---
 
 ## 🛠️ Tech Stack
@@ -63,6 +78,16 @@ OSINT & DevOps Engineer · [V1 Team](https://v1-team.github.io)
 | Project | Description |
 |---|---|
 | **V1-SpammerWifi** | Создание множества фейковых Wi-Fi сетей с помощью WiFi модуля и aircrack-ng |
+
+---
+
+## 🎓 Stepik Profile
+
+<div align="center">
+  <a href="https://stepik.org/users/1011688870/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Stepik_Profile-@v1kserr-0f172a?style=for-the-badge&logo=stepik&logoColor=white&labelColor=2E3440" />
+  </a>
+</div>
 
 ---
 

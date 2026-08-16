@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5f5f5"/><stop offset=".45" stop-color="#777"/><stop offset="1" stop-color="#111"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="shadow"><feGaussianBlur in="SourceAlpha" stdDeviation="12"/><feOffset dy="12"/><feComponentTransfer><feFuncA type="linear" slope=".7"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="700" fill="#050505"/>
+<g fill="none" stroke="#555" stroke-width="3" opacity=".55"><path d="M70 440C250 170 470 590 680 300S1020 190 1140 420"/><path d="M80 520C300 260 450 540 720 390S990 260 1130 500"/></g>
+<g fill="#aaa" opacity=".7"><circle cx="155" cy="180" r="4"/><circle cx="1020" cy="170" r="5"/><circle cx="890" cy="540" r="3"/><circle cx="300" cy="550" r="4"/></g>
+<g stroke="#ddd" stroke-width="5" filter="url(#glow)"><path d="M150 95v150M75 170h150"/><path d="M1050 450v170M965 535h170"/></g>
+<g fill="#ddd"><path d="M600 105l9 28 30 2-23 19 7 30-23-16-26 16 9-30-24-19 30-2z"/><path d="M930 115l7 20 22 2-17 14 5 22-17-12-18 12 7-22-18-14 22-2z"/></g>
+<text x="600" y="425" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="205" font-weight="900" font-style="italic" letter-spacing="-18" fill="url(#g)" stroke="#aaa" stroke-width="3" paint-order="stroke" filter="url(#shadow)">v1kserr</text>
+<g fill="none" stroke="#999" stroke-width="2" opacity=".65"><path d="M180 470l-25 80M245 500l-20 90M960 475l20 85M1020 450l25 80"/></g>
+</svg>

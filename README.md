@@ -6,7 +6,7 @@
 </div>
 
 
-Systems & Security Engineer · [V1 Team](https://v1-team.github.io)
+OSINT & DevOps Engineer · [V1 Team](https://v1-team.github.io)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=600&color=808080&center=true&width=500&lines=OSINT+Specialist;Reverse+Engineering;Network+Security;Binary+Obfuscation;Embedded+Systems)](https://git.io/typing-svg)
 
@@ -63,31 +63,15 @@ Systems & Security Engineer · [V1 Team](https://v1-team.github.io)
 | Project | Description |
 |---|---|
 | **V1-SpammerWifi** | Создание множества фейковых Wi-Fi сетей с помощью WiFi модуля и aircrack-ng |
----
-
-## 🔐 Closed Cases
-| Target | Vulnerabilities | Time | Status |
-|---|---|---|---|
-| [![OpenVk](https://img.shields.io/badge/OpenVk-Visit%20Site-2563eb?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://openvk.su) | `10 (8 critical)` | `3h (team)` | ![closed](https://img.shields.io/badge/CLOSED-ef4444?style=for-the-badge&logo=shield&logoColor=white) |
-| [![mineblaze](https://img.shields.io/badge/mineblaze.net-Visit%20Site-2563eb?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://mineblaze.net) | `10` | `1h` | ![closed](https://img.shields.io/badge/CLOSED-ef4444?style=for-the-badge&logo=shield&logoColor=white) |
-| [![tgpremka](https://img.shields.io/badge/tgpremka-Visit%20Site-2563eb?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://tgpremka.example) | `13` | `34m` | ![closed](https://img.shields.io/badge/CLOSED-ef4444?style=for-the-badge&logo=shield&logoColor=white) |
-| [![musteryworld](https://img.shields.io/badge/musteryworld.net-Visit%20Site-2563eb?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://musteryworld.net) | `10` | `40m` | ![closed](https://img.shields.io/badge/CLOSED-ef4444?style=for-the-badge&logo=shield&logoColor=white) |
-| [![dexland](https://img.shields.io/badge/dexland.org-Visit%20Site-2563eb?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://dexland.org) | `10` | `1h` | ![closed](https://img.shields.io/badge/CLOSED-ef4444?style=for-the-badge&logo=shield&logoColor=white) |
-| [![lainlife](https://img.shields.io/badge/lainlife.ru-Visit%20Site-2563eb?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://lainlife.ru) | `19` | `~2h (team)` | ![closed](https://img.shields.io/badge/CLOSED-ef4444?style=for-the-badge&logo=shield&logoColor=white) |
-| [![rpmserver](https://img.shields.io/badge/rpmserver.com-Visit%20Site-2563eb?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://rpmserver.com) | `9 (8 critical)` | `~4h (team)` | ![closed](https://img.shields.io/badge/CLOSED-ef4444?style=for-the-badge&logo=shield&logoColor=white) |
-| [![retrotube](https://img.shields.io/badge/retrotube.net-Visit%20Site-2563eb?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://retrotube.net) | `7 (4 critical)` | `~3h (team)` | ![closed](https://img.shields.io/badge/CLOSED-ef4444?style=for-the-badge&logo=shield&logoColor=white) |
----
-
-## 🤝 Collaborations
-
-s010vloon — Contributed custom tools for knowledge base integration.
 
 ---
 
 ## 📬 Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ParanoidOpsec-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ParanoidOpsec)
-[![Email](https://img.shields.io/badge/Email-v1kserr@cocaine.ninja-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:v1kserr@cocaine.ninja)
+[![Email](https://img.shields.io/badge/Email-lambda1488@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lambda1488@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@vikserr-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vikserr)
+[![Discord](https://img.shields.io/badge/Discord-v1kserr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/v1kserr)
+[![Telegram](https://img.shields.io/badge/Telegram-@V1kserr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/V1kserr)
 
 ---
 

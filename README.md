@@ -20,7 +20,7 @@ OSINT & DevOps Engineer · [V1 Team](https://v1-team.github.io)
   <p>
     <!-- ЗАМЕНИЛ ССЫЛКИ НА ТЕ, ЧТО ТОЧНО РАБОТАЮТ -->
     <img src="images.jpg" width="350px" />
-    <img src="8-hYMDtPEIE.jpg" width="500px" />
+    <img src="8-hYMDtPEIE.jpg" width="400px" />
   </p>
 </div>
 <!-- ================================ -->

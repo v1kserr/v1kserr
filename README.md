@@ -17,19 +17,24 @@ Systems & Security Engineer · [V1 Team](https://v1-team.github.io)
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-  <img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
   <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/ASM-0f172a?style=for-the-badge&logo=assemblyscript&logoColor=6E4A7E"/>
-  <img src="https://img.shields.io/badge/MCU-0f172a?style=for-the-badge&logo=microchip&logoColor=00979D"/>
+  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
+  <img src="https://img.shields.io/badge/DevOps-0f172a?style=for-the-badge&logo=devops&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coding-0f172a?style=for-the-badge&logo=neovim&logoColor=57A143"/>
-  <img src="https://img.shields.io/badge/OSINT-0f172a?style=for-the-badge&logo=spyderide&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=181717"/>
   <img src="https://img.shields.io/badge/Web_Pentest-0f172a?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139"/>
-  <img src="https://img.shields.io/badge/Malware_Analysis-0f172a?style=for-the-badge&logo=virusshare&logoColor=FF4D4D"/>
+  <img src="https://img.shields.io/badge/OSINT-0f172a?style=for-the-badge&logo=spyderide&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Arduino-0f172a?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+  <img src="https://img.shields.io/badge/ESP32-0f172a?style=for-the-badge&logo=espressif&logoColor=FFFFFF"/>
 </p>
 
 ---
@@ -57,17 +62,7 @@ Systems & Security Engineer · [V1 Team](https://v1-team.github.io)
 
 | Project | Description |
 |---|---|
-| Answer Now | AI-powered automated test solver |
-| pySniff | Smart WiFi sniffer with Telegram integration |
-| Crypton | AES-256-GCM + ChaCha20-Poly1305 encryption toolkit |
-| C0ck Obfuscator | Custom file obfuscation engine |
-| webSosint | Domain intelligence & OSINT automation framework |
-| NetMorph | Privacy lab for browser fingerprint evasion |
-| MetaPoisoner | Advanced C++ utility for deep metadata rewriting |
-| devReplay | Local time-machine for code that auto-saves file changes |
-| readmeGEN | AI-powered description generator for your projects |
-| KnotTrace | Infrastructure visualization tool that turns OSINT data into interactive graphs |
-
+| **V1-SpammerWifi** | Создание множества фейковых Wi-Fi сетей с помощью WiFi модуля и aircrack-ng |
 ---
 
 ## 🔐 Closed Cases

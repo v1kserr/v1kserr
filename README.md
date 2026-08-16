@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="v1kserr.svg" alt="v1kserr" />
+<img src="assets/v1kserr.svg" alt="v1kserr" />
 <div align="center">
 
 </div>

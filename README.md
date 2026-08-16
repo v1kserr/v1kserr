@@ -109,6 +109,6 @@ OSINT & DevOps Engineer · [V1 Team](https://v1-team.github.io)
 
 <div align="center">
 
-<img src="https://i.imgur.com/w9Hzq38.gif" width="400px"/>
+<img src="https://media.tenor.com/_dKH5Eoi3WAAAAAj/cyberpunk-computer.gif" width="400px"/>
 
 </div>

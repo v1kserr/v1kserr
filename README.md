@@ -6,7 +6,7 @@
 </div>
 
 
-OSINT & DevOps Engineer · [V1 Team](https://v1-team.github.io)
+Web & DevOps Engineer · [V1 Team](https://v1-team.github.io)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=600&color=808080&center=true&width=500&lines=OSINT+Specialist;Reverse+Engineering;Network+Security;Binary+Obfuscation;Embedded+Systems)](https://git.io/typing-svg)
 

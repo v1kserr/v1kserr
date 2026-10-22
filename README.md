@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-<a href="https://github.com/v1kserr/V1Vpn-Free"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-v1vpn-free-dark.svg"><img src="assets/project-v1vpn-free-light.svg" width="49%" alt="V1Vpn-Free"></picture></a>&nbsp;<a href="https://github.com/v1kserr/v1kserr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-v1kserr-dark.svg"><img src="assets/project-v1kserr-light.svg" width="49%" alt="v1kserr"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Серия"></picture>

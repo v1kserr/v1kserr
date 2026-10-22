@@ -1,114 +1,23 @@
 <div align="center">
 
-<img src="ChatGPT Image 16 авг. 2026 г., 16_02_56.png" alt="v1kserr" />
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Добро пожаловать, я v1kserr"></picture>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="15.863%" alt=""></picture><a href="https://t.me/v1kserr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/v1kserr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://youtube.com/vikserr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="17.583%" alt="youtube"></picture></a><a href="https://github.com/v1kserr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-4-dark.svg"><img src="assets/social-4-light.svg" width="16.014%" alt="github"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="15.863%" alt=""></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="Обо мне"></picture>
 
-Web & DevOps Engineer · [V1 Team](https://v1-team.github.io)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=600&color=808080&center=true&width=500&lines=OSINT+Specialist;Reverse+Engineering;Network+Security;Binary+Obfuscation;Embedded+Systems)](https://git.io/typing-svg)
+<a href="https://github.com/v1kserr/V1Vpn-Free"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-v1vpn-free-dark.svg"><img src="assets/project-v1vpn-free-light.svg" width="49%" alt="V1Vpn-Free"></picture></a>&nbsp;<a href="https://github.com/v1kserr/v1kserr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-v1kserr-dark.svg"><img src="assets/project-v1kserr-light.svg" width="49%" alt="v1kserr"></picture></a>
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
-<!-- ================================ -->
-<!-- БЛОК С АНИМИРОВАННЫМИ МЕМАМИ     -->
-<!-- ================================ -->
-<div align="center">
-  <h3>⚡ Dev Memes For You ⚡</h3>
-  <p>
-    <!-- ЗАМЕНИЛ ССЫЛКИ НА ТЕ, ЧТО ТОЧНО РАБОТАЮТ -->
-    <img src="images.jpg" width="350px" />
-    <img src="8-hYMDtPEIE.jpg" width="400px" />
-  </p>
-</div>
-<!-- ================================ -->
-<!-- КОНЕЦ БЛОКА МЕМОВ                -->
-<!-- ================================ -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Серия"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-## 🛠️ Tech Stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-l-dark.svg"><img src="assets/button-l-light.svg" width="28.559%" alt=""></picture><a href="https://v1kserr.duckdns.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="20.491%" alt="Мой сайт"></picture></a><a href="https://v1vpn-free.duckdns.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="22.388%" alt="V1Vpn-Free"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-r-dark.svg"><img src="assets/button-r-light.svg" width="28.559%" alt=""></picture>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
-  <img src="https://img.shields.io/badge/DevOps-0f172a?style=for-the-badge&logo=devops&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/Kubernetes-0f172a?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=181717"/>
-  <img src="https://img.shields.io/badge/Web_Pentest-0f172a?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139"/>
-  <img src="https://img.shields.io/badge/OSINT-0f172a?style=for-the-badge&logo=spyderide&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Arduino-0f172a?style=for-the-badge&logo=arduino&logoColor=00979D"/>
-  <img src="https://img.shields.io/badge/ESP32-0f172a?style=for-the-badge&logo=espressif&logoColor=FFFFFF"/>
-</p>
-
----
-
-## 💻 OS & Systems
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-0f172a?style=for-the-badge&logo=archlinux&logoColor=1793D1"/>
-  <img src="https://img.shields.io/badge/CachyOS-0f172a?style=for-the-badge&logo=archlinux&logoColor=4A9EFF"/>
-  <img src="https://img.shields.io/badge/Debian-0f172a?style=for-the-badge&logo=debian&logoColor=E95420"/>
-  <img src="https://img.shields.io/badge/Ubuntu-0f172a?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
-  <img src="https://img.shields.io/badge/Linux_Mint-0f172a?style=for-the-badge&logo=linuxmint&logoColor=87CF3E"/>
-  <img src="https://img.shields.io/badge/NixOS-0f172a?style=for-the-badge&logo=nixos&logoColor=5277C3"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-0f172a?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
-  <img src="https://img.shields.io/badge/Fedora-0f172a?style=for-the-badge&logo=fedora&logoColor=3c6df0"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently_on-Arch_Linux-0f172a?style=for-the-badge&logo=archlinux&logoColor=1793D1"/>
-</p>
-
----
-
-## 🚀 Projects
-
-| Project | Description |
-|---|---|
-| **V1-SpammerWifi** | Создание множества фейковых Wi-Fi сетей с помощью WiFi модуля и aircrack-ng |
-
----
-
-## 🎓 Stepik Profile
-
-<div align="center">
-  <a href="https://stepik.org/users/1011688870/profile" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_My_Stepik_Profile-@v1kserr-0f172a?style=for-the-badge&logo=stepik&logoColor=white&labelColor=2E3440" />
-  </a>
-</div>
-
----
-
-## 📬 Contact
-
-[![Email](https://img.shields.io/badge/Email-lambda1488@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lambda1488@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-@vikserr-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vikserr)
-[![Discord](https://img.shields.io/badge/Discord-v1kserr-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/v1kserr)
-[![Telegram](https://img.shields.io/badge/Telegram-@V1kserr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/V1kserr)
-
----
-
-<div align="center">
-
-<b>TOTAL VISITORS</b>
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=v1kserr&style=for-the-badge&color=2b3137" />
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px"/>
+<a href="https://metawka.github.io/expressive-profile/?from=v1kserr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>

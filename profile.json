@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "login": "v1kserr",
+  "seed": "#E5484D",
+  "seedFromAvatar": false,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Добро пожаловать, я",
+    "name": "",
+    "subtitle": "Я DevOps/Django разработчик - Остальное ниже",
+    "typing": true,
+    "avatarShape": "gem",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Россия"
+      },
+      {
+        "icon": "code",
+        "label": "Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Я в основном DevOps/Django разработчик, но также увлекаюсь Pentest, микроконтролеры(esp32, arduino и т.д.)"
+      },
+      {
+        "icon": "code",
+        "label": "Знаю из ЯП или ЯВ - Python/JS и Html/Css"
+      },
+      {
+        "icon": "language",
+        "label": "Изучаю Go, а также хочу изучить Rust"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:html5",
+            "label": "Html"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "JS"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:css",
+            "label": "Css"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux/DevOps"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          },
+          {
+            "icon": "language",
+            "label": "Web-Pentest"
+          },
+          {
+            "icon": "brand:arduino",
+            "label": "Arduino"
+          },
+          {
+            "icon": "brand:espressif",
+            "label": "Esp32"
+          },
+          {
+            "icon": "brand:django",
+            "label": "Django"
+          },
+          {
+            "icon": "terminal",
+            "label": "Ngnix"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:kubernetes",
+            "label": "Kubernetes"
+          },
+          {
+            "icon": "123",
+            "label": "И чуть чуть разного"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "Описания пока нет.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/v1kserr"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/v1kserr"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://youtube.com/vikserr"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/v1kserr"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Мой сайт",
+        "url": "https://v1kserr.duckdns.org/",
+        "style": "tonal"
+      },
+      {
+        "icon": "vpn_lock",
+        "label": "V1Vpn-Free",
+        "url": "https://v1vpn-free.duckdns.org/",
+        "style": "tonal"
+      }
+    ],
+    "card": true
+  }
+}

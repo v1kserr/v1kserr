@@ -1,6 +1,6 @@
 {
- "key": "9c5bd34a",
- "stars": 2,
+ "key": "1020ff7a",
+ "stars": 3,
  "contributions": 51,
  "repos": 3,
  "followers": 0,
@@ -126,6 +126,15 @@
  "pins": [],
  "all": [
   {
+   "name": "V1Forum",
+   "url": "https://github.com/v1kserr/V1Forum",
+   "text": "Форум от V1Team - Пока в разработке",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
    "name": "V1Vpn-Free",
    "url": "https://github.com/v1kserr/V1Vpn-Free",
    "text": "Полностью бесплатный Vpn для ващего использавания",
@@ -140,15 +149,6 @@
    "text": "",
    "fork": false,
    "stars": 1,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "V1Forum",
-   "url": "https://github.com/v1kserr/V1Forum",
-   "text": "Форум от V1Team - Пока в разработке",
-   "fork": false,
-   "stars": 0,
    "language": null,
    "topics": []
   }

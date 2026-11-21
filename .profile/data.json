@@ -1,10 +1,14 @@
 {
- "key": "cc6c9668",
- "stars": 3,
+ "key": "2f7a9d6f",
+ "stars": 4,
  "contributions": 62,
  "repos": 4,
  "followers": 0,
  "languages": [
+  [
+   "Python",
+   11959
+  ],
   [
    "HTML",
    11586
@@ -12,10 +16,6 @@
   [
    "CSS",
    7055
-  ],
-  [
-   "Python",
-   2099
   ],
   [
    "JavaScript",
@@ -142,6 +142,15 @@
  "pins": [],
  "all": [
   {
+   "name": "V1Wifi",
+   "url": "https://github.com/v1kserr/V1Wifi",
+   "text": "Создание фейковых точек доступа с помощью aircrack-ng (airbase-ng), сканирование Wi-Fi сетей (airodump-ng), отключение клиентов (aireplay-ng) и управление режимом мониторинга (airmon-ng) через единое CLI-меню на Python и Bash.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
    "name": "V1Forum",
    "url": "https://github.com/v1kserr/V1Forum",
    "text": "Форум от V1Team - Пока в разработке",
@@ -166,15 +175,6 @@
    "fork": false,
    "stars": 1,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "V1Wifi",
-   "url": "https://github.com/v1kserr/V1Wifi",
-   "text": "Создание фейковых точек доступа с помощью aircrack-ng (airbase-ng), сканирование Wi-Fi сетей (airodump-ng), отключение клиентов (aireplay-ng) и управление режимом мониторинга (airmon-ng) через единое CLI-меню на Python и Bash.",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
    "topics": []
   }
  ]

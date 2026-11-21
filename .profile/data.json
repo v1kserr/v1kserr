@@ -1,7 +1,7 @@
 {
- "key": "aa5594ee",
+ "key": "cc6c9668",
  "stars": 3,
- "contributions": 60,
+ "contributions": 62,
  "repos": 4,
  "followers": 0,
  "languages": [
@@ -129,14 +129,14 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 21,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 1,
   "longest": 2
  },
  "pins": [],
@@ -169,9 +169,9 @@
    "topics": []
   },
   {
-   "name": "V1Wifi-Spammer",
-   "url": "https://github.com/v1kserr/V1Wifi-Spammer",
-   "text": "Создание фейковых точек доступа с помощью aircrack-ng (в частности, утилиты airbase-ng)",
+   "name": "V1Wifi",
+   "url": "https://github.com/v1kserr/V1Wifi",
+   "text": "Создание фейковых точек доступа с помощью aircrack-ng (airbase-ng), сканирование Wi-Fi сетей (airodump-ng), отключение клиентов (aireplay-ng) и управление режимом мониторинга (airmon-ng) через единое CLI-меню на Python и Bash.",
    "fork": false,
    "stars": 0,
    "language": "Python",
